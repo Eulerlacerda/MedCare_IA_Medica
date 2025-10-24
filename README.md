@@ -1,0 +1,2 @@
+# MedCare_IA_Medica
+IA_Medica_Disgnostico
